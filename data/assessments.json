@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Math Quiz 1",
+    "type": "Quiz",
+    "date": "2024-08-15",
+    "popularity": 85,
+    "completionRate": 90
+  },
+  {
+    "id": 2,
+    "title": "Science Assignment",
+    "type": "Assignment",
+    "date": "2024-08-18",
+    "popularity": 70,
+    "completionRate": 75
+  },
+  {
+    "id": 3,
+    "title": "History Survey",
+    "type": "Survey",
+    "date": "2024-08-20",
+    "popularity": 65,
+    "completionRate": 80
+  },
+  {
+    "id": 4,
+    "title": "Geography Quiz 2",
+    "type": "Quiz",
+    "date": "2024-08-22",
+    "popularity": 78,
+    "completionRate": 85
+  },
+  {
+    "id": 5,
+    "title": "Literature Assignment",
+    "type": "Assignment",
+    "date": "2024-08-25",
+    "popularity": 82,
+    "completionRate": 88
+  },
+  {
+    "id": 1725188375231,
+    "title": "Avinesh",
+    "type": "Quiz",
+    "date": "2024-09-01",
+    "popularity": 213,
+    "completionRate": 12321
+  }
+]
