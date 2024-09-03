@@ -26,6 +26,9 @@ export default function AssessmentDashboard() {
     fetchAssessments();
   }, []);
 
+  console.log(assessments);
+  
+
   const filteredAssessments = assessments
     .filter((assessment) => {
       if (filterType === "All") return true;
